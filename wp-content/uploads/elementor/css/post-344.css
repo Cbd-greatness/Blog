@@ -30,6 +30,20 @@
 .elementor-344 .elementor-element.elementor-element-cc3b646 .elementor-text-editor {text-align: center;}
 .elementor-344 .elementor-element.elementor-element-cc3b646 {color: #46515e;}
 .elementor-344 .elementor-element.elementor-element-cc3b646 > .elementor-widget-container {background-color: rgba(255,255,255,.78);border-style: solid;border-width: 2px 2px 2px 2px;border-color: #61ce70;}
+.elementor-344 .elementor-element.elementor-element-350bcd4 .elementor-spacer-inner {height: 25px;}
+.elementor-344 .elementor-element.elementor-element-b452e77 {text-align: center;}
+.elementor-344 .elementor-element.elementor-element-b452e77.elementor-widget-heading .elementor-heading-title {color: #000;}
+.elementor-344 .elementor-element.elementor-element-b452e77 .elementor-heading-title {font-family: "Give You Glory",Sans-serif;font-size: 48px;}
+.elementor-344 .elementor-element.elementor-element-e1502ea {--divider-border-style: solid;--divider-border-color: #000;--divider-border-width: 1px;}
+.elementor-344 .elementor-element.elementor-element-e1502ea .elementor-divider-separator {width: 45%;margin: 0 auto;margin-center: 0;}
+.elementor-344 .elementor-element.elementor-element-e1502ea .elementor-divider {text-align: center;padding-top: 15px;padding-bottom: 15px;}
+.elementor-344 .elementor-element.elementor-element-e1502ea > .elementor-widget-container {margin: -14px 0px 10px 0px;}
+.elementor-344 .elementor-element.elementor-element-7f89fa6 > .elementor-widget-container {margin: 20px 0px 0px 0px;}
+.elementor-344 .elementor-element.elementor-element-8cec43e {text-align: center;}
+.elementor-344 .elementor-element.elementor-element-b77c619 {text-align: center;}
+.elementor-344 .elementor-element.elementor-element-18fc49b {text-align: center;}
+.elementor-344 .elementor-element.elementor-element-18fc49b.elementor-widget-heading .elementor-heading-title {color: #000;}
+.elementor-344 .elementor-element.elementor-element-18fc49b .elementor-heading-title {font-family: "Anaheim",Sans-serif;font-size: 59px;}
 .elementor-344 .elementor-element.elementor-element-e7dcb0c:not(.elementor-motion-effects-element-type-background), .elementor-344 .elementor-element.elementor-element-e7dcb0c > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: rgba(72,206,83,.23);}
 .elementor-344 .elementor-element.elementor-element-e7dcb0c {border-style: groove;border-width: 4px 4px 4px 4px;border-color: rgba(57,229,77,.67);transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 12px;margin-bottom: 12px;padding: 0px 0px 0px 0px;}
 .elementor-344 .elementor-element.elementor-element-e7dcb0c > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -51,3 +65,6 @@
 .elementor-344 .elementor-element.elementor-element-1fe866b > .elementor-widget-container {margin: 0px 0px 0px 0px;}
 .elementor-344 .elementor-element.elementor-element-c39ffbc .elementor-image img {border-style: solid;border-width: 5px 5px 5px 5px;border-color: rgba(73,216,104,.91);}
 .elementor-344 .elementor-element.elementor-element-c39ffbc > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+@media (min-width:768px) {.elementor-344 .elementor-element.elementor-element-728ef4f {width: 43.357%;}
+	.elementor-344 .elementor-element.elementor-element-dd41c5f {width: 56.673%;}}
+@media (max-width:1024px) and (min-width:768px) {.elementor-344 .elementor-element.elementor-element-dd41c5f {width: 56%;}}
